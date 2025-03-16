@@ -1,0 +1,12 @@
+[Desktop Entry]
+Version=1.0.4
+Name=LedgrApp
+Comment=Ledgr is a smart, bespoke, user-centric, smart Strategic Financial Analyses Platform.
+Exec=streamlit run /ledgr-v1/app.py
+Path=/ledgr-v1/
+Icon=/ledgr-v1/pages/appdata/imgs/Ledgr_Logo.png
+Terminal=true
+Type=Application
+Categories=Utility;Development;
+GenericName=LedgrApp_Beta_1
+StartupNotify=true
